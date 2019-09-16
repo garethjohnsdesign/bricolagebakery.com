@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "31491",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -692,28 +700,28 @@
 		"oAP": "/assets/fonts/gallery.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/Rosart-Italic.ttf": {
+	"/assets/fonts/rosart-italic.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/assets/fonts/Rosart-Italic.ttf",
+		"oAP": "/assets/fonts/rosart-italic.ttf",
 		"oF": 0
 		},
-	"/assets/fonts/Rosart-Italic.woff": {
+	"/assets/fonts/rosart-italic.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/assets/fonts/Rosart-Italic.woff",
+		"oAP": "/assets/fonts/rosart-italic.woff",
 		"oF": 0
 		},
-	"/assets/fonts/Rosart-Italic.woff2": {
+	"/assets/fonts/rosart-italic.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/assets/fonts/Rosart-Italic.woff2",
+		"oAP": "/assets/fonts/rosart-italic.woff2",
 		"oF": 0
 		},
 	"/assets/fonts/rosart-regular.ttf": {
