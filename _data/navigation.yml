@@ -1,0 +1,15 @@
+header:
+  - title: About
+    url: "#about"
+  - title: Editorial
+    url: "#editorial"
+  - title: Branded
+    url: "#branded"
+  - title: Contact
+    url: "#contact"
+
+footer:
+  - title: Terms
+    url: "/terms/"
+  - title: Privacy
+    url: "/privacy/"
