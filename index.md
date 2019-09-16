@@ -1,5 +1,5 @@
 ---
-title: Novel
+title: Bricolage
 position: 0
 image: "/uploads/og-image.png"
 hero-image: "/uploads/test.jpg"
