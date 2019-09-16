@@ -27,7 +27,8 @@ defaults:
     link: 
     is-highlight: false
 url: https://www.bricolagebakery.co.uk
-description: The Bricolage Bakery is a Nottingham artisan bakery. We are passionate about sourdough and the lost traditions of our baking ancestors.
+description: The Bricolage Bakery is a Nottingham artisan bakery. We are passionate
+  about sourdough and the lost traditions of our baking ancestors.
 permalink: pretty
 exclude:
 - package.json
